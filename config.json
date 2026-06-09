@@ -58,6 +58,13 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-api",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Create RESTful endpoints with FastAPI, Pydantic models, and HTTP status handling.",
+      "path": "assignments/fastapi-rest-api",
+      "dueDate": "2026-06-16"
     }
   ]
 }
