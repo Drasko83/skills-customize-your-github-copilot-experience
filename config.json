@@ -65,6 +65,13 @@
       "description": "Create RESTful endpoints with FastAPI, Pydantic models, and HTTP status handling.",
       "path": "assignments/fastapi-rest-api",
       "dueDate": "2026-06-16"
+    },
+    {
+      "id": "automated-api-testing-pytest",
+      "title": "Automated API Testing with pytest",
+      "description": "Write automated tests for Python logic and FastAPI endpoints using pytest.",
+      "path": "assignments/automated-api-testing-pytest",
+      "dueDate": "2026-06-16"
     }
   ]
 }
